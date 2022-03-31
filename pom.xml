@@ -17,7 +17,7 @@
 
     <properties>
         <cucumber.version>5.5.0</cucumber.version>
-        <springboot.version>2.2.4.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
     </properties>
 
     <dependencies>
